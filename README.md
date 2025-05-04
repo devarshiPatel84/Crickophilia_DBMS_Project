@@ -1,0 +1,1 @@
+Crickophilia is a database system for cricket enthusiasts, offering access to past and up-coming match details, scorecards, player and team statistics, ticket booking information, and other cricket-related data.
